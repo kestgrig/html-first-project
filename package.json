@@ -1,12 +1,10 @@
 {
-  "name": "uzdav",
+  "name": "htmlfirstteamproject",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "index": "dead-server --host=localhost --port=5050",
-    "bestmovies": "dead-server --host=localhost --port=5051",
-    "uzd": "dead-server --host=localhost --port=5052",
+    "index": "dead-server --host=localhost --port=5021",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
