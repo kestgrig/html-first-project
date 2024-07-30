@@ -12,7 +12,7 @@ _HTML Intro (paragraph, headings, structure)_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/kestgrig/html-first-team-project
+Site published at: https://github.com/kestgrig/html-first-project
 
 ## 🎯 Project features/goals
 
@@ -41,7 +41,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/kestgrig/html-first-team-project.git
+    git clone https://github.com/kestgrig/html-first-project.git
     ```
 2. Install NPM packages
     ```sh
