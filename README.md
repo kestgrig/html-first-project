@@ -53,7 +53,7 @@ Would like to run this project locally? Open terminal and follow these steps:
     ```
 3. Run the server
     ```sh
-    npm run dev
+    npm run index
     ```
 
 ### 🧪 Running tests
